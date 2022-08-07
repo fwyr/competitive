@@ -108,6 +108,7 @@
 - [ABC085B - Kagami Mochi](ABC085/B) ([link](https://atcoder.jp/contests/abc085/tasks/abc085_b))
 - [ABC086A - Product](ABC086/A) ([link](https://atcoder.jp/contests/abc086/tasks/abc086_a))
 - [ABC086B - 1 21](ABC086/B) ([link](https://atcoder.jp/contests/abc086/tasks/abc086_b))
+- [ABC087A - Product](ABC087/A) ([link](https://atcoder.jp/contests/abc087/tasks/abc087_a))
 - [ABC161A - ABC Swap](ABC061/A) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_a))
 - [ABC161B - Popular Vote](ABC061/B) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_b))
 - [ABC161C - Replacing Integer](ABC061/C) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_c))
