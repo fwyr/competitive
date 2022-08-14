@@ -112,6 +112,8 @@
 - [ABC086B - 1 21](ABC086/B) ([link](https://atcoder.jp/contests/abc086/tasks/abc086_b))
 - [ABC087A - Buying Sweets](ABC087/A) ([link](https://atcoder.jp/contests/abc087/tasks/abc087_a))
 - [ABC087B - Coins](ABC087/B) ([link](https://atcoder.jp/contests/abc087/tasks/abc087_b))
+- [ABC088A - Infinite Coins](ABC088/A) ([link](https://atcoder.jp/contests/abc088/tasks/abc088_a))
+- [ABC088B - Card Game for Two](ABC088/B) ([link](https://atcoder.jp/contests/abc088/tasks/abc088_b))
 - [ABC161A - ABC Swap](ABC061/A) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_a))
 - [ABC161B - Popular Vote](ABC061/B) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_b))
 - [ABC161C - Replacing Integer](ABC061/C) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_c))
